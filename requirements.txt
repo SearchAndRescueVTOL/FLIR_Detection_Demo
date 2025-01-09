@@ -3,4 +3,4 @@ pandas
 opencv-python
 kaggle
 jupyterlab
-
+ultralytics
