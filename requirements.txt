@@ -1,0 +1,6 @@
+pytorch
+pandas
+opencv-python
+kaggle
+jupyterlab
+
